@@ -11,7 +11,6 @@ Literature_RAG is a powerful tool designed to assist researchers, students, and 
 7. Contributing
 8. License
 
-## ------------------
 ## 1.Introduction
 Reading and comprehending research papers can be a daunting task, especially for newcomers. Literature_RAG aims to simplify this process by using advanced AI techniques to generate easy-to-understand summaries and insights from research papers. The core of this tool is the Retrieval Augmented Generation model, which combines the efficiency of information retrieval systems with the generative capabilities of state-of-the-art language models.
 
